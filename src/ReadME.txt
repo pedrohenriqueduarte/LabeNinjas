@@ -24,7 +24,7 @@ informações;
 
 - Valor total dos itens; 
 
-# Tecnologias Utilizadas
+#Tecnologias Utilizadas
 
 - React.Js;
 
@@ -34,11 +34,11 @@ informações;
 
 - Material UI;
 
-# Link do Surge
+#Link do Surge
 
-https://secret-door.surge.sh/
+...
 
-# Desenvolvedores: 
+#Desenvolvedores: 
 
 - Maria Fernanda Lançoni 
 
